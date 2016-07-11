@@ -1,0 +1,21 @@
+.sacola
+{
+    background: url(../img/sacola.png) no-repeat top right;
+    width: 140px;
+    text-align: right;
+    padding-right: 35px;
+    font-size: 14px;
+}
+.menu-opcoes ul
+{
+    font-size: 15px;
+}
+.menu-opcoes a
+{
+    color: #036;
+}
+body
+{
+    color: #333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
