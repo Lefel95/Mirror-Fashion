@@ -26,6 +26,7 @@
                     <input type="submit" class="comprar" value="Comprar">
                     <input type="hidden" name="nome" value="Fuzzy Cardigan">
                     <input type="hidden" name="preco" value="129.00">
+                    <input type="hidden" name="id" value="2">
                 </form>
             </div>
             <div class="detalhes">
