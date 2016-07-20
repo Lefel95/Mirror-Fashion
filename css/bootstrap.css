@@ -1931,6 +1931,10 @@ textarea.input-lg {
   .form-inline .form-control {
     display: inline-block;
   }
+    .form-control:invalid
+    {
+        border: 1px solid #c00;
+    }
   .form-inline .radio,
   .form-inline .checkbox {
     display: inline-block;
